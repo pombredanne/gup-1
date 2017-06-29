@@ -1,0 +1,2 @@
+# gup
+Golang binary updater
